@@ -1,0 +1,15 @@
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\bin\Debug\net8.0\Multiply.exe
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\bin\Debug\net8.0\Multiply.deps.json
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\bin\Debug\net8.0\Multiply.runtimeconfig.json
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\bin\Debug\net8.0\Multiply.dll
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\bin\Debug\net8.0\Multiply.pdb
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.AssemblyInfo.cs
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.sourcelink.json
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.dll
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\refint\Multiply.dll
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.pdb
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\Multiply.genruntimeconfig.cache
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Multiply\obj\Debug\net8.0\ref\Multiply.dll
