@@ -1,0 +1,15 @@
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\bin\Debug\net8.0\Array pt 1.exe
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\bin\Debug\net8.0\Array pt 1.deps.json
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\bin\Debug\net8.0\Array pt 1.runtimeconfig.json
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\bin\Debug\net8.0\Array pt 1.dll
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\bin\Debug\net8.0\Array pt 1.pdb
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.AssemblyInfoInputs.cache
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.AssemblyInfo.cs
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.csproj.CoreCompileInputs.cache
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.sourcelink.json
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.dll
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\refint\Array pt 1.dll
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.pdb
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\Array pt 1.genruntimeconfig.cache
+C:\Users\mvakiashvili\source\repos\Mako\ConsoleApp2\Array pt 1\obj\Debug\net8.0\ref\Array pt 1.dll
