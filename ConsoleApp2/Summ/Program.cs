@@ -19,7 +19,7 @@ namespace Methods
             int index = int.Parse(Console.ReadLine());
 
             int result = summerize (array, index);
-            Console.WriteLine($"Here's the result: {result}");
+            Console.WriteLine($"Here's your result: {result}");
         }
 
         static int summerize(int[] array, int index)
