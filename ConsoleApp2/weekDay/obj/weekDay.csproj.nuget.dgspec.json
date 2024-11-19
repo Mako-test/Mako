@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mvakiashvili\\Source\\Repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj": {}
+    "C:\\Users\\mvakiashvili\\source\\repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mvakiashvili\\Source\\Repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj": {
+    "C:\\Users\\mvakiashvili\\source\\repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mvakiashvili\\Source\\Repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj",
+        "projectUniqueName": "C:\\Users\\mvakiashvili\\source\\repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj",
         "projectName": "weekDay",
-        "projectPath": "C:\\Users\\mvakiashvili\\Source\\Repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj",
+        "projectPath": "C:\\Users\\mvakiashvili\\source\\repos\\Mako\\ConsoleApp2\\weekDay\\weekDay.csproj",
         "packagesPath": "C:\\Users\\mvakiashvili\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mvakiashvili\\Source\\Repos\\Mako\\ConsoleApp2\\weekDay\\obj\\",
         "projectStyle": "PackageReference",
