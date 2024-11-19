@@ -9,7 +9,7 @@ internal class PositiveNumbers
     {
         Console.WriteLine("Enter Any number");
 
-        int jami = 0;
+        int jami=0;
         while (true)
         {
             int number = int.Parse(Console.ReadLine());
