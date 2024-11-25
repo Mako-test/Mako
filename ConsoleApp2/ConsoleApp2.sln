@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathHelper", "MathHelper\Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBox", "GenericBox\GenericBox.csproj", "{A43F411C-43C5-4D86-865A-4385F463B7E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{E8C886DA-7A5C-4F0F-8A9D-F57CCE029361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{E8C886DA-7A5C-4F0F-8A9D-F57CCE029361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{3702EC6D-90DC-4931-872A-05006920683A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{E8C886DA-7A5C-4F0F-8A9D-F57CCE029361}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8C886DA-7A5C-4F0F-8A9D-F57CCE029361}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8C886DA-7A5C-4F0F-8A9D-F57CCE029361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3702EC6D-90DC-4931-872A-05006920683A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3702EC6D-90DC-4931-872A-05006920683A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3702EC6D-90DC-4931-872A-05006920683A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3702EC6D-90DC-4931-872A-05006920683A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
